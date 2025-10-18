@@ -1,2 +1,4 @@
-# Coffee-Shop-Sales-Dashboard
-This Coffee Shop Sales Dashboard project uses Power BI, Excel, and SQL to analyze coffee shop sales performance. It tracks key metrics, customer behavior, and product trends to uncover insights that support better business decisions.
+# ☕ Coffee Shop Sales Dashboard  
+
+This project features an interactive **Power BI dashboard** that analyzes coffee shop sales data.  
+It offers valuable insights into **revenue performance**, **customer preferences**, and **product trends**, helping business owners make informed, data-driven decisions to improve overall sales and profitability.  
